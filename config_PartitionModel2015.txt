@@ -1,0 +1,18 @@
+# QFT-ICAM data directory
+path_qft=/Users/yliu/Data/cruises/qft_icam/
+# LWCC data directory
+path_lwcc=/Users/yliu/Data/cruises/lwcc/
+# AC-S merged data directory
+path_acs=/Users/yliu/Data/cruises/acs/profile/
+# QFT-ICAM file names
+ap=qft_icam_merged_median_abs_totparticle_pangaea.txt
+aph=qft_icam_merged_median_abs_phytoplankton_pangaea.txt
+anap=qft_icam_merged_median_abs_NAP_adjust_pangaea.txt
+# LWCC file name
+cdom=lwcc_merged_median_ag_*final_pangaea_expfit.txt
+# Cruises involed
+cruises_involved=PS113
+# Wavelengths of aph band ratios as constraints
+qft_wl_select=412,442,469,490,555,730
+
+
